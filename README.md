@@ -1,6 +1,5 @@
 # TB2J -> Vampire (isotropic, Jiso-only) UCF Exporter
 
-中文说明在前，English below.
 
 ---
 
